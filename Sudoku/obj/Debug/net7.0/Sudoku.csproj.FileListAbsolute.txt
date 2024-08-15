@@ -1,0 +1,12 @@
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.csproj.AssemblyReference.cache
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.AssemblyInfoInputs.cache
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.AssemblyInfo.cs
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.csproj.CoreCompileInputs.cache
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/bin/Debug/net7.0/Sudoku.deps.json
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/bin/Debug/net7.0/Sudoku.dll
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/bin/Debug/net7.0/Sudoku.pdb
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.dll
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/refint/Sudoku.dll
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/Sudoku.pdb
+/Users/andershelbo/Desktop/SudokuSolver/Sudoku/obj/Debug/net7.0/ref/Sudoku.dll
