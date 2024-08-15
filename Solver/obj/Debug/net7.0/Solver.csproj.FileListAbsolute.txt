@@ -1,0 +1,12 @@
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.csproj.AssemblyReference.cache
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.AssemblyInfoInputs.cache
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.AssemblyInfo.cs
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.csproj.CoreCompileInputs.cache
+/Users/andershelbo/Desktop/SudokuSolver/Solver/bin/Debug/net7.0/Solver.deps.json
+/Users/andershelbo/Desktop/SudokuSolver/Solver/bin/Debug/net7.0/Solver.dll
+/Users/andershelbo/Desktop/SudokuSolver/Solver/bin/Debug/net7.0/Solver.pdb
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.dll
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/refint/Solver.dll
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/Solver.pdb
+/Users/andershelbo/Desktop/SudokuSolver/Solver/obj/Debug/net7.0/ref/Solver.dll

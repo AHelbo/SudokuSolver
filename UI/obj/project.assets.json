@@ -475,6 +475,26 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Solver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Solver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Solver.dll": {}
+        }
+      },
+      "Sudoku/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Sudoku.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sudoku.dll": {}
+        }
       }
     },
     "net7.0/browser-wasm": {
@@ -944,6 +964,26 @@
         },
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "Solver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Solver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Solver.dll": {}
+        }
+      },
+      "Sudoku/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Sudoku.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sudoku.dll": {}
         }
       }
     }
@@ -1792,12 +1832,24 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Solver/1.0.0": {
+      "type": "project",
+      "path": "../Solver/Solver.csproj",
+      "msbuildProject": "../Solver/Solver.csproj"
+    },
+    "Sudoku/1.0.0": {
+      "type": "project",
+      "path": "../Sudoku/Sudoku.csproj",
+      "msbuildProject": "../Sudoku/Sudoku.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.1",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.1"
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.1",
+      "Solver >= 1.0.0",
+      "Sudoku >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1824,7 +1876,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/andershelbo/Desktop/SudokuSolver/Solver/Solver.csproj": {
+              "projectPath": "/Users/andershelbo/Desktop/SudokuSolver/Solver/Solver.csproj"
+            },
+            "/Users/andershelbo/Desktop/SudokuSolver/Sudoku/Sudoku.csproj": {
+              "projectPath": "/Users/andershelbo/Desktop/SudokuSolver/Sudoku/Sudoku.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
